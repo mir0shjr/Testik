@@ -4,5 +4,6 @@
 int main()
 {
     printf("Hello world!\n");
-    return 0;
+    printf("Hello world!\n");
+    return 0;//C is ccanina
 }
